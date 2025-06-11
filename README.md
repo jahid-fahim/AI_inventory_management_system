@@ -1,1 +1,1 @@
-# AI_inventory_management_system
+# Developed a real-time inventory tracking system integrating YOLOv8 object detection and Tesseract OCR for package and label recognition. Trained on a custom warehouse dataset, the system achieved high detection (mAP50: 86.2%) and OCR accuracy (92.6%). Reduced manual scanning errors and enabled efficient stock updates in warehouse operations.
